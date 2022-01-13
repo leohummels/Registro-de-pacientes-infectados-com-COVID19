@@ -1,0 +1,23 @@
+
+Paciente: Paciente Sem Comorbidade
+CPF: 0000000000
+Telefone: 00000000000
+Endereço: Endere‡o do Paciente
+Cidade: Cidade do Paciente
+CEP: 0000000
+Data de Nascimento: 1/1/2000
+E-mail: emaildopaciente@email.com
+Data de diagnóstico: 0000000
+Comorbidade: 0000000
+
+Paciente: Paciente Com Comorbidade
+CPF: 0000000000
+Telefone: 000000000
+Endereço: Endere‡o do Paciente
+Cidade: Cidade do Paciente
+CEP: 000000
+Data de Nascimento: 1/1/2001
+E-mail: emaildopaciente@email.com
+Data de diagnóstico: 000000
+Comorbidade: 000000
+

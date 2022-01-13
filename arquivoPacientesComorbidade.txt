@@ -1,0 +1,4 @@
+Paciente: Paciente Com Comorbidade
+Idade: 20
+CEP: 000000
+
